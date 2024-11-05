@@ -1,14 +1,13 @@
 <?php
 
-namespace VendorName\Skeleton;
+namespace Bosqro\TimelineManager;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;
 use Filament\Support\Assets\Theme;
-use Filament\Support\Color;
 use Filament\Support\Facades\FilamentAsset;
 
-class Skeleton implements Plugin
+class TimelineTheme implements Plugin
 {
     public function getId(): string
     {

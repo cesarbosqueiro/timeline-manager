@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton;
+namespace Bosqro\TimelineManager;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;

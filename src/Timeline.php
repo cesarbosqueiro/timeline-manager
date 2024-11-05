@@ -1,5 +1,5 @@
 <?php
 
-namespace VendorName\Skeleton;
+namespace Bosqro\TimelineManager;
 
 class Timeline {}
