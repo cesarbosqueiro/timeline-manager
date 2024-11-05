@@ -5,7 +5,7 @@ namespace VendorName\Skeleton;
 use Filament\Contracts\Plugin;
 use Filament\Panel;
 
-class SkeletonPlugin implements Plugin
+class TimelinePlugin implements Plugin
 {
     public function getId(): string
     {
