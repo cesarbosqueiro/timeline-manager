@@ -7,9 +7,9 @@ use Spatie\LaravelPackageTools\PackageServiceProvider;
 
 class TimelineManagerServiceProvider extends PackageServiceProvider
 {
-    public static string $name = 'filament-timeline';
+    public static string $name = 'Timeline-Manager';
 
-    public static string $viewNamespace = 'filament-timeline';
+    public static string $viewNamespace = 'Timeline-Manager';
 
     public function configurePackage(Package $package): void
     {
